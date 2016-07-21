@@ -1,0 +1,85 @@
+#back { 
+  background: url('iim_a1.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  
+}
+
+.nav-pills a{
+	font-size: 14px;
+	font-family: 'Quicksand', sans-serif;
+	color: white;
+}
+.nav-pills a:hover{
+	color: #006666;
+}
+
+.nav-pills .active a {
+    background-color: #006666;
+}
+
+ .bar{
+ 	padding-left: 1%;
+	margin-top:17%;
+	margin-bottom: 5%;
+}
+
+#picture{
+	height: 200px;
+	padding-right: 40%;
+	background: white;
+}
+
+#home .row{
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+} 
+
+#home p{
+	font-size: 13px;
+	font-family: 'Quicksand', sans-serif;
+}
+#home h1{
+	font-family: 'Quicksand', sans-serif;
+}
+
+#Objective p{
+	font-size: 13px;
+	font-family: 'Quicksand', sans-serif;
+}
+
+#Objective h1{
+	font-family: 'Quicksand', sans-serif;
+}
+
+#Pedagogy p{
+	font-size: 13px;
+	font-family: 'Quicksand', sans-serif;
+}
+
+#Pedagogy h1{
+	font-family: 'Quicksand', sans-serif;
+}
+
+#LiveProjects p{
+	font-size: 13px;
+	font-family: 'Quicksand', sans-serif;
+}
+
+#LiveProjects h1{
+	font-family: 'Quicksand', sans-serif;
+}
+
+
+.footer {
+	
+}
+
+h6 {
+	font-size: 13px;
+	font-family: 'Quicksand', sans-serif;
+	color: white;
+}
